@@ -23,7 +23,7 @@ Pattern Recognition is a pivotal field within Machine Learning, offering insight
 - **Description:** Essential in pattern recognition, quadratic and linear least squares classifiers distinguish classes using decision surfaces. This assignment implements the Gaussian Quadratic Classifier (GQC) and Linear Least Squares Classifier (LLSC), evaluating their statistical performance.
 
 ### [Assignment 4](ProblemSet4): Clustering
-- **Description:** An unsupervised learning process, cluster analysis groups data based on similarities. This assignment implements k-means and k-median techniques, evaluates cluster validity indices (Dunn's Index, Davies-Bouldin Index, Calinski-Harabasz Index), and conducts a statistical analysis of cluster characteristics.
+- **Description:** An unsupervised learning process, cluster analysis groups data based on similarities. This assignment implements k-means and k-medians techniques, evaluates cluster validity indices (Dunn's Index, Davies-Bouldin Index, Calinski-Harabasz Index), and conducts a statistical analysis of cluster characteristics.
 
 ## License 📄
 
